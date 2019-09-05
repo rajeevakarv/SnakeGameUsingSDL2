@@ -48,7 +48,9 @@ Note: src/highestscore file keeps the latest highes score. If you like to reset 
 Arrow Keys : Directions,    
            r : Refresh,     
            q : Quit,
-           
+        
+
+## Known Bug: 
 Known Bug: Sometimes new food is not apprearing on screen when snake get one food. 
 Resolution: If this situation occus while playing, please hit "r" and it will refresh the game.
 
