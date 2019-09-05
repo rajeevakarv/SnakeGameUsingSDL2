@@ -51,8 +51,8 @@ Arrow Keys : Directions,
         
 
 ## Known Bug: 
-Known Bug: Sometimes new food is not apprearing on screen when snake get one food. 
-Resolution: If this situation occus while playing, please hit "r" and it will refresh the game.
+Known Bug: Sometimes new food is not appearing on screen when snake get one food. 
+Resolution: If this situation occurs while playing, please hit "r" and it will refresh the game.
 
 
 ## Learning used from Udacity NanoDegree
