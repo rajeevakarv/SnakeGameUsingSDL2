@@ -45,9 +45,9 @@ Note: src/highestscore file keeps the latest highes score. If you like to reset 
 4. Run it: `./SnakeGame`.
 
 ## Game Controls: 
-Arrow Keys : Directions 
-           r : Refresh 
-           q : Quit
+Arrow Keys : Directions,    
+           r : Refresh,     
+           q : Quit,
            
 Known Bug: Sometimes new food is not apprearing on screen when snake get one food. 
 Resolution: If this situation occus while playing, please hit "r" and it will refresh the game.
